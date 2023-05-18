@@ -8,7 +8,7 @@
   <packaging>jar</packaging>
 
   <name>cat</name>
-  <url>http://maven.apache.org</url>
+  <url>http://cattechnologies.com/</url>
 
   <properties>
 		<jdk.version>1.8</jdk.version>
